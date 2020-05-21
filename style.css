@@ -70,10 +70,7 @@ float: left;
 
 #table2 {
     float: left;
-  /*   top: 100%;
-    right: 100%;
-float: right; */
-/* transform: translate(-20%,-20%); */
+ 
 }
 
 ul,li {
@@ -103,9 +100,7 @@ footer button {
 }
 
  #logo {
-    /*  align-content: stretch; */
-    /* position: relative;
-    right: 50px; */
+  
   display:block;
   margin-left: auto;
   margin-right: auto;
