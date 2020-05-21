@@ -1,3 +1,118 @@
 body{
-    background-color: blue;
+    font-family: cursive;
+    margin: auto;
+    width: 900px;
 }
+header img {
+float: left;
+
+}
+#tophead {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    float: right;
+
+}
+
+.pizza {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 50px;
+margin: 0px;
+}
+
+h3,h4 {
+color: gray;
+font-family: 'Times New Roman', Times, serif;
+text-transform: uppercase;
+}
+
+.article
+{
+    display: block;
+}
+
+#print
+{
+float: right;
+}
+
+#printtext {
+    text-transform: uppercase;
+    color: gray;
+    margin-bottom: 0%;
+    margin-top: 0%;
+
+
+}
+
+.container {
+     
+    position: relative;
+    text-align: center;
+    columns: black; 
+}
+
+.table {
+    font-family: monospace;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: left;
+
+}
+
+#table1 {
+float: left;
+}
+
+#table2 {
+    float: left;
+  /*   top: 100%;
+    right: 100%;
+float: right; */
+/* transform: translate(-20%,-20%); */
+}
+
+ul,li {
+     list-style-type:none; 
+    
+}
+
+li {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+footer img {
+    float: left;
+    
+}
+
+footer button {
+    float: right;
+    color: white;
+    background-color: red;
+}
+
+#copywrite {
+    text-align: center;
+    color: gray;
+}
+
+ #logo {
+    /*  align-content: stretch; */
+    /* position: relative;
+    right: 50px; */
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+} 
+
+.st {
+    text-decoration: line-through;
+}
+
